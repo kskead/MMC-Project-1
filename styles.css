@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+h1{font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+font-size: 80px;
+font-weight: 100;
+color: #08A694;}
+h2{font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+font-size: 50px;
+font-weight: 100;
+color:#062AB3;}
+p{font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+font-size: 30px;
+font-weight: 100;
+color: #9405DD;}
